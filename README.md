@@ -11,7 +11,7 @@
 <!-- ========================= HERO BANNER ========================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:0d47a1&height=200&section=header&text=Vishnu%20Sai%20Neelam&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Application%20%26%20Production%20Support%20Engineer&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:0d47a1&height=200&section=header&text=Vishnu%20Sai%20Neelam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" />
 
 <!-- Animated typing banner -->
 <a href="https://github.com/vishnusai-neelam">
