@@ -4,9 +4,8 @@
 
 <div align="center">
 
-<!-- Main Name & Identity Title -->
-# ⚡ VISHNU SAI NEELAM ⚡
-### **ServiceNow / ITSM Specialist • Full-Stack Enterprise Architect**
+<!-- Glossy 3D Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f62fe,45:7928ca,100:00f2fe&height=220&section=header&text=VISHNU%20SAI%20NEELAM&fontSize=40&fontColor=ffffff&desc=ServiceNow%20%2F%20ITSM%20Specialist%20%7C%20Full-Stack%20Architect%20%7C%20ResolveX%20%26%20VILXON&descFontSize=14&descAlignY=70" width="100%" alt="Header Banner" />
 
 <br/>
 
@@ -32,30 +31,34 @@
   <tr>
     <td align="center" width="25%">
       <br/>
-      <img src="https://img.shields.io/badge/METRIC-969%2B_RESOLVED-0F62FE?style=for-the-badge&logo=servicenow&logoColor=white" />
+      <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@main/assets/Gear/3D/gear_3d.png" width="52" alt="3D Gear Icon" />
       <br/><br/>
-      <b>Production Incidents & Requests</b>
+      <h3 align="center" style="color: #0f62fe; margin: 0;">969+</h3>
+      <b>Incidents & Requests</b>
       <p>Lifecycle triage, root-cause investigation & SLA management</p>
     </td>
     <td align="center" width="25%">
       <br/>
-      <img src="https://img.shields.io/badge/SLA_PERFORMANCE-100%25_MET-00F2FE?style=for-the-badge&logo=speedtest&logoColor=black" />
+      <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@main/assets/Bullseye/3D/bullseye_3d.png" width="52" alt="3D Target Icon" />
       <br/><br/>
+      <h3 align="center" style="color: #00f2fe; margin: 0;">100% SLA</h3>
       <b>Resolution Adherence</b>
       <p>Log inspection, REST API diagnostics & SQL verification</p>
     </td>
     <td align="center" width="25%">
       <br/>
-      <img src="https://img.shields.io/badge/ENTERPRISE_ESM-RESOLVEX-7928CA?style=for-the-badge&logo=react&logoColor=white" />
+      <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@main/assets/Laptop/3D/laptop_3d.png" width="52" alt="3D Laptop Icon" />
       <br/><br/>
-      <b>Service Operations System</b>
+      <h3 align="center" style="color: #7928ca; margin: 0;">ResolveX</h3>
+      <b>Enterprise ESM Platform</b>
       <p>Custom CMDB, workflow engine & JSONB request forms</p>
     </td>
     <td align="center" width="25%">
       <br/>
-      <img src="https://img.shields.io/badge/ARCHITECTURE-VILXON_SUITE-FF0080?style=for-the-badge&logo=apacherocketmq&logoColor=white" />
+      <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@main/assets/High%20voltage/3D/high_voltage_3d.png" width="52" alt="3D Voltage Icon" />
       <br/><br/>
-      <b>High-Performance Platform</b>
+      <h3 align="center" style="color: #ff0080; margin: 0;">VILXON</h3>
+      <b>High-Performance Suite</b>
       <p>Modular architecture, dynamic security & API integration</p>
     </td>
   </tr>
