@@ -4,23 +4,21 @@
 
 <div align="center">
 
-<!-- Glossy 3D Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f62fe,45:7928ca,100:00f2fe&height=230&section=header&text=VISHNU%20SAI%20NEELAM&fontSize=42&fontColor=ffffff&desc=ServiceNow%20%2F%20ITSM%20Specialist%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20Creator%20of%20ResolveX%20%26%20VILXON&descFontSize=15&descAlignY=72&stroke=00f2fe&strokeWidth=1" width="100%" alt="Header Banner" />
+<!-- Glossy 3D Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f62fe,45:7928ca,100:00f2fe&height=220&section=header&text=VISHNU%20SAI%20NEELAM&fontSize=40&fontColor=ffffff&desc=ServiceNow%20%2F%20ITSM%20Specialist%20%7C%20Full-Stack%20Architect%20%7C%20ResolveX%20%26%20VILXON&descFontSize=14&descAlignY=70" width="100%" alt="Header Banner" />
 
 <br/>
 
-<!-- Animated Cyber Typing Headline -->
-<a href="https://github.com/vishnusai-neelam">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&lines=ITSM+%26+ServiceNow+Specialist+%7C+2%2B+Years+%40+Accenture;Architect+of+ResolveX+%E2%80%93+Enterprise+Service+Management+Platform;Founder+%26+Lead+Architect+of+VILXON+Suite;Microsoft+Certified%3A+Azure+DB+Admin+(DP-300)+%26+AZ-900;969%2B+Production+Incidents+%26+Service+Requests+Resolved" alt="Typing Headline" />
-</a>
+<!-- Animated Cyber Typing Headline (Non-Clickable) -->
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&lines=ITSM+%26+ServiceNow+Specialist+%7C+2%2B+Years+%40+Accenture;Architect+of+ResolveX+%E2%80%93+Enterprise+Service+Management+Platform;Founder+%26+Lead+Architect+of+VILXON+Suite;Microsoft+Certified%3A+Azure+DB+Admin+(DP-300)+%26+AZ-900;969%2B+Production+Incidents+%26+Service+Requests+Resolved" alt="Typing Headline" />
 
 <br/><br/>
 
-<!-- Modern 3D Badge Bar -->
-<a href="https://github.com/vishnusai-neelam"><img src="https://img.shields.io/badge/ACCENTURE-2%2B_YEARS_EXP-7928CA?style=for-the-badge&logo=accenture&logoColor=white" /></a>
-<a href="https://github.com/vishnusai-neelam/resolvex"><img src="https://img.shields.io/badge/FLAGSHIP-RESOLVEX_ESM-0F62FE?style=for-the-badge&logo=react&logoColor=white" /></a>
-<a href="#-vilxon-ecosystem"><img src="https://img.shields.io/badge/INNOVATION-VILXON_SUITE-FF0080?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-<a href="#-certifications--credentials"><img src="https://img.shields.io/badge/MICROSOFT-DP--300_%7C_AZ--900-00F2FE?style=for-the-badge&logo=microsoft&logoColor=black" /></a>
+<!-- Modern 3D Badge Bar (Non-Clickable) -->
+<img src="https://img.shields.io/badge/ACCENTURE-2%2B_YEARS_EXP-7928CA?style=for-the-badge&logo=accenture&logoColor=white" />
+<img src="https://img.shields.io/badge/FLAGSHIP-RESOLVEX_ESM-0F62FE?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/INNOVATION-VILXON_SUITE-FF0080?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/MICROSOFT-DP--300_%7C_AZ--900-00F2FE?style=for-the-badge&logo=microsoft&logoColor=black" />
 <img src="https://komarev.com/ghpvc/?username=vishnusai-neelam&style=for-the-badge&color=0f62fe&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
@@ -33,28 +31,36 @@
   <tr>
     <td align="center" width="25%">
       <br/>
-      <img src="https://img.shields.io/badge/INCIDENTS-969%2B_RESOLVED-0F62FE?style=for-the-badge&logo=servicenow&logoColor=white" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="48" alt="Gear Settings Icon" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/INCIDENTS-969%2B_RESOLVED-0F62FE?style=for-the-badge" />
       <br/><br/>
       <b>Production Incidents & Requests</b>
       <p>Lifecycle triage, root-cause investigation & SLA management</p>
     </td>
     <td align="center" width="25%">
       <br/>
-      <img src="https://img.shields.io/badge/SLA_TARGETS-100%25_MET-00F2FE?style=for-the-badge&logo=target&logoColor=black" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="48" alt="Check Icon" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/SLA_TARGETS-100%25_MET-00F2FE?style=for-the-badge&logoColor=black" />
       <br/><br/>
       <b>Resolution Adherence</b>
       <p>Log inspection, REST API diagnostics & SQL verification</p>
     </td>
     <td align="center" width="25%">
       <br/>
-      <img src="https://img.shields.io/badge/PLATFORM-RESOLVEX_ESM-7928CA?style=for-the-badge&logo=react&logoColor=white" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computer/Desktop%20Computer.png" width="48" alt="Desktop Icon" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PLATFORM-RESOLVEX_ESM-7928CA?style=for-the-badge" />
       <br/><br/>
       <b>Enterprise ESM System</b>
       <p>Custom CMDB, workflow engine & JSONB request forms</p>
     </td>
     <td align="center" width="25%">
       <br/>
-      <img src="https://img.shields.io/badge/ECOSYSTEM-VILXON_SUITE-FF0080?style=for-the-badge&logo=lightning&logoColor=white" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="48" alt="Voltage Icon" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/ECOSYSTEM-VILXON_SUITE-FF0080?style=for-the-badge" />
       <br/><br/>
       <b>High-Performance Suite</b>
       <p>Modular architecture, dynamic security & API integration</p>
