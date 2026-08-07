@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Glossy 3D Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f62fe,45:7928ca,100:00f2fe&height=220&section=header&text=VISHNU%20SAI%20NEELAM&fontSize=40&fontColor=ffffff&desc=ServiceNow%20%2F%20ITSM%20Specialist%20%7C%20Full-Stack%20Architect%20%7C%20ResolveX%20%26%20VILXON&descFontSize=14&descAlignY=70" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f62fe,45:7928ca,100:00f2fe&height=220&section=header&text=VISHNU%20SAI%20NEELAM&fontSize=42&fontColor=ffffff&desc=ServiceNow%20and%20ITSM%20Specialist%20--%20Full%20Stack%20Architect%20--%20ResolveX%20and%20VILXON&descFontSize=14&descAlignY=70" width="100%" alt="Header Banner" />
 
 <br/>
 
