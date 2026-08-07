@@ -4,8 +4,9 @@
 
 <div align="center">
 
-<!-- Glossy 3D Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f62fe,45:7928ca,100:00f2fe&height=220&section=header&text=VISHNU%20SAI%20NEELAM&fontSize=40&fontColor=ffffff&desc=ServiceNow%20%2F%20ITSM%20Specialist%20%7C%20Full-Stack%20Architect%20%7C%20ResolveX%20%26%20VILXON&descFontSize=14&descAlignY=70" width="100%" alt="Header Banner" />
+<!-- Main Name & Identity Title -->
+# ⚡ VISHNU SAI NEELAM ⚡
+### **ServiceNow / ITSM Specialist • Full-Stack Enterprise Architect**
 
 <br/>
 
@@ -31,38 +32,30 @@
   <tr>
     <td align="center" width="25%">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="48" alt="Gear Settings Icon" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/INCIDENTS-969%2B_RESOLVED-0F62FE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/METRIC-969%2B_RESOLVED-0F62FE?style=for-the-badge&logo=servicenow&logoColor=white" />
       <br/><br/>
       <b>Production Incidents & Requests</b>
       <p>Lifecycle triage, root-cause investigation & SLA management</p>
     </td>
     <td align="center" width="25%">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="48" alt="Check Icon" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/SLA_TARGETS-100%25_MET-00F2FE?style=for-the-badge&logoColor=black" />
+      <img src="https://img.shields.io/badge/SLA_PERFORMANCE-100%25_MET-00F2FE?style=for-the-badge&logo=speedtest&logoColor=black" />
       <br/><br/>
       <b>Resolution Adherence</b>
       <p>Log inspection, REST API diagnostics & SQL verification</p>
     </td>
     <td align="center" width="25%">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computer/Desktop%20Computer.png" width="48" alt="Desktop Icon" />
+      <img src="https://img.shields.io/badge/ENTERPRISE_ESM-RESOLVEX-7928CA?style=for-the-badge&logo=react&logoColor=white" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/PLATFORM-RESOLVEX_ESM-7928CA?style=for-the-badge" />
-      <br/><br/>
-      <b>Enterprise ESM System</b>
+      <b>Service Operations System</b>
       <p>Custom CMDB, workflow engine & JSONB request forms</p>
     </td>
     <td align="center" width="25%">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="48" alt="Voltage Icon" />
+      <img src="https://img.shields.io/badge/ARCHITECTURE-VILXON_SUITE-FF0080?style=for-the-badge&logo=apacherocketmq&logoColor=white" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/ECOSYSTEM-VILXON_SUITE-FF0080?style=for-the-badge" />
-      <br/><br/>
-      <b>High-Performance Suite</b>
+      <b>High-Performance Platform</b>
       <p>Modular architecture, dynamic security & API integration</p>
     </td>
   </tr>
